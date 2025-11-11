@@ -1,1 +1,13 @@
-Jierie
+# Hi there! 👋
+
+I'm [Your Name] - [Your Title/Role]
+
+## 🚀 About Me
+- 🔭 I'm currently working on...
+- 🌱 I'm currently learning...
+- 💬 Ask me about...
+- 📫 How to reach me: ...
+
+---
+
+![Metrics](github-metrics.svg)
