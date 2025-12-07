@@ -20,7 +20,7 @@ jobs:
           config_padding: 5%
           
           # Base content
-          base: header, activity, community, repositories, metadata
+          base: header, community, repositories, metadata
           
           # Plugins
           plugin_isocalendar: yes
@@ -38,7 +38,7 @@ jobs:
           plugin_habits_trim: yes
           
           plugin_followup: yes
-          plugin_lines: yes
+
           
           plugin_people: yes
           plugin_people_types: followers, following
@@ -54,10 +54,7 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_display: compact
 
-          # Add activity graph
-          plugin_activity: yes
-          plugin_activity_limit: 10
-          plugin_activity_timestamps: yes
+
 
           # Add code habits
           plugin_code: yes
