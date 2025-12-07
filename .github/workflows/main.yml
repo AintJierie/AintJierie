@@ -31,8 +31,9 @@ jobs:
           plugin_languages_colors: github
           
           plugin_habits: yes
-          plugin_habits_from: 200
+          plugin_habits_from: 500
           plugin_habits_days: 50
+          plugin_habits_facts: yes
           plugin_habits_charts: yes
           
           plugin_followup: yes
@@ -53,7 +54,8 @@ jobs:
 
           # Add activity graph
           plugin_activity: yes
-          plugin_activity_limit: 5
+          plugin_activity_limit: 10
+          plugin_activity_timestamps: yes
 
           # Add code habits
           plugin_code: yes
