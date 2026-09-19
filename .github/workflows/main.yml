@@ -28,7 +28,7 @@ jobs:
           user: AintJierie
           template: classic
           base: activity, repositories, metadata
-          config_display: large
+          config_display: column
           config_timezone: Asia/Taipei
           plugin_calendar: yes
           plugin_calendar_limit: 1
