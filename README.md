@@ -27,11 +27,6 @@
 </a>
 </td>
 </tr></table>
-
-
-
-</td><td valign="top" width="25%">
-  
 ![Metrics](github-metrics.svg)
 # LeetCode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/AintJierie?theme=dark&font=Kadwa&ext=activity)
