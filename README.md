@@ -8,7 +8,5 @@
 
 ![Metrics](github-metrics.svg)
 ## LeetCode
-<div align="center">
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/AintJierie?theme=dark&font=Kadwa&ext=activity)
-</div>
