@@ -1,4 +1,4 @@
-# Hi, I'm Jierie Ezequiel
+# Hi, I'm Jerry
 
 # Skill Set
 
