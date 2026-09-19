@@ -1,4 +1,7 @@
+![Profile](/metrics-profile.svg)
 
----
+### Tech I use
+![Languages](/metrics-languages.svg)
 
-![Metrics](github-metrics.svg)
+### Activity
+![Calendar](/metrics-calendar.svg)
